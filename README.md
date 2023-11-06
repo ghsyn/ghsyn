@@ -1,9 +1,7 @@
 ## 안녕하세요👋 Backend Developer👩🏻‍💻 김시연입니다.🚀🛰️
 
 Email📬 : dev.demonstrate@gmail.com
-* * *
 Notion📖 : ["백엔드 개발자 김시연입니다."](https://www.notion.so/recorddev/1f018b8209e444cb89ce92e7fcf3e403?pvs=4)
-* * *
 
 <!--
 **ghsyn/ghsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
