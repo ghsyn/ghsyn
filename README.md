@@ -3,7 +3,7 @@
 Email📬 : dev.demonstrate@gmail.com<br>
 Notion📖 : ["백엔드 개발자 김시연입니다."](https://www.notion.so/recorddev/1f018b8209e444cb89ce92e7fcf3e403?pvs=4)
 
-### commit convention
+### Commit Convention
 | Tag Name | Description |
 |----|----------|
 | Feat | 새로운 기능을 추가 |
