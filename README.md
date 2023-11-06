@@ -1,4 +1,4 @@
-### 안녕하세요👋 Backend Developer👩🏻‍💻 김시연입니다.🚀🛰️
+## 안녕하세요👋 Backend Developer👩🏻‍💻 김시연입니다.🚀🛰️
 
 Email📬 : dev.demonstrate@gmail.com<br>
 Notion📖 : ["백엔드 개발자 김시연입니다."](https://www.notion.so/recorddev/1f018b8209e444cb89ce92e7fcf3e403?pvs=4)
