@@ -1,9 +1,66 @@
-## 안녕하세요👋 Backend Developer👩🏻‍💻 김시연입니다.🚀🛰️
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&animation=twinkling&height=100&width=1000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&width=300&size=30&duration=2500&pause=3&color=gradient&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SiYeon's+GitHub+👋)](https://git.io/typing-svg)
 
-Email📬 : dev.demonstrate@gmail.com<br>
-Notion📖 : ["백엔드 개발자 김시연입니다."](https://www.notion.so/recorddev/1f018b8209e444cb89ce92e7fcf3e403?pvs=4)
+<div>
+  <h3 align="center">
+    🧸 ABOUT ME 🧸
+    <br>
+    <br>
+    <a href="https://velog.io/@imdemo" target="_blank">
+    <img src="https://img.shields.io/badge/velog.io/@imdemo-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog" />
+    </a>&nbsp;    
+    <a href="mailto:dev.demonstrate@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/dev.demonstrate@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+    </a>&nbsp;
+  </h2>
+</div>
 
-### Commit Convention
+<div align="center">
+  <br>
+  <br>
+  { BACKEND }
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
+  
+  <br>
+  <br>
+  { FRONTEND }
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;  
+  
+  <br>
+  <br>
+  { DevOps }
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>&nbsp;
+  <br>
+  <br>
+  { Database }
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
+  <br>
+  <br>
+</div>
+
+## 🐱 Commit Convention
 | Tag Name | Description |
 |----|----------|
 | Feat | 새로운 기능을 추가 |
@@ -34,3 +91,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
